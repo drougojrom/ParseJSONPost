@@ -1,0 +1,21 @@
+{
+    "location" : {
+        "id" : "AVxjbjqYcm3qlagaq2oT",
+        "city" : {
+            "id" : 8015209,
+            "state" : "Victoria",
+            "country" : {
+                "id" : "AU",
+                "name" : "Australia"
+            },
+            "name" : "St Albans"
+        }
+    },
+    "email" : "test@test.com",
+    "id" : "7c586fb6-549a-4506-b3d4-123h12gj3hj",
+    "lastName" : "Rom",
+    "accessLevel" : 3,
+    "firstName" : "Rom",
+    "profileImageUrl" : "http://britanskaja-koshka.ru/wp-content/uploads/2015/05/graycat1.jpg",
+    "lastPasswordChangeDate" : null
+}
